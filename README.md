@@ -1,2 +1,2 @@
-# RealLava/rickroll-program
+# rickroll-program
 get rickrolled by yourself
