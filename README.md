@@ -1,2 +1,2 @@
 # rickroll-program
-get rickrolled by yourself on windows
+get rickrolled by yourself
